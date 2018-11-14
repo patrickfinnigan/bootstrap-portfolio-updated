@@ -1,2 +1,4 @@
 # bootstrap-portfolio-updated
-A bootstrap portfolio!
+A basic bootstrap portfolio!
+
+Layout Base was acquired by the Core Bootstrap set from azmind.com
