@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/patrickfinnigan/bootstrap-portfolio-updated#readme",
   "dependencies": {
-    "heroku": "^7.18.7"
+    "heroku": "^7.69.1"
   }
 }
